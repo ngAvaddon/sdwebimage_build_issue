@@ -80,3 +80,11 @@ Error log:
 import SDWebImage
        ^
 ```
+
+
+Temporarily fix:
+----
+
+use ```pod 'SDWebImage/GIF'``` everywhere.
+
+```pod install``` then will add all required folders into framework search paths and will have dependency frameworks linked.
