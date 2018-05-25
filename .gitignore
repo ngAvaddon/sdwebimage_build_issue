@@ -1,0 +1,10 @@
+*.orig
+*.xcscmblueprint
+.DS_Store
+xcuserdata/
+Build/
+Pods/
+*/archive
+*.gcno
+*.gcda
+.idea/
